@@ -1,9 +1,3 @@
----
-layout: default
-title: "Temporal Regulatory Inconsistency (TRI)"
-description: "Temporal Regulatory Inconsistency (TRI): A time-dynamic framework for within-individual variability in ADHD."
----
-
 # ExplorerBrain Research Initiative
 
 ## Temporal Regulatory Inconsistency (TRI)
@@ -20,7 +14,7 @@ This website documents the ongoing development of the TRI framework.
 
 - **Version 1 (v1)**  
   Conceptual formulation  
-  Zenodo DOI: https://doi.org/10.5281/zenodo.17953456
+  Zenodo DOI: [https://doi.org/10.5281/zenodo.17953456](https://doi.org/10.5281/zenodo.17953456)
 
 - **Subsequent versions**  
   Will introduce operational definitions, empirical demonstrations, and model-based formalizations.
@@ -37,4 +31,4 @@ Please cite the Zenodo v1 record when referencing the initial formulation of TRI
 
 **Tao Liu**  
 Independent Researcher  
-Project site: https://explorerbrain.com
+Project site: [https://explorerbrain.com](https://explorerbrain.com)
