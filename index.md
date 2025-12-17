@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Temporal Regulatory Inconsistency (TRI)"
+description: "Temporal Regulatory Inconsistency (TRI): A time-dynamic framework for within-individual variability in ADHD."
+---
+
 # ExplorerBrain Research Initiative
 
 ## Temporal Regulatory Inconsistency (TRI)
