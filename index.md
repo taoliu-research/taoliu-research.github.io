@@ -4,8 +4,6 @@ title: "Temporal Regulatory Inconsistency (TRI)"
 description: "Temporal Regulatory Inconsistency (TRI): A time-dynamic framework for within-individual variability in ADHD."
 ---
 
-# ExplorerBrain Research Initiative
-
 ## Temporal Regulatory Inconsistency (TRI)
 
 Temporal Regulatory Inconsistency (TRI) is a conceptual, time-dynamic framework proposed to account for stable yet structured within-individual variability in attention-deficit/hyperactivity disorder (ADHD).
