@@ -16,30 +16,25 @@ Rather than focusing on average-level deficits, the TRI framework emphasizes flu
 
 ## Current Status
 
-The TRI framework is under active, staged development.
+This website documents the ongoing development of the TRI framework.
 
 - **Version 1 (v1)**  
-  Conceptual and descriptive formulation  
-  Archived on Zenodo  
-  DOI: https://doi.org/10.5281/zenodo.17953456
-
-- **Version 2 (v2)** *(in preparation)*  
-  Operational definitions and preliminary temporal predictions
+  Conceptual formulation  
+  Zenodo DOI: https://doi.org/10.5281/zenodo.17953456
 
 - **Subsequent versions**  
-  Empirical demonstrations, computational formalization, and cross-level integration
-
-This website documents the ongoing evolution of the TRI framework and serves as a stable reference point for its conceptual development.
+  Will introduce operational definitions, empirical demonstrations, and model-based formalizations.
 
 ---
 
 ## Citation
 
-If you cite TRI v1, please cite the Zenodo record (DOI above). Future versions will provide updated citations.
+Please cite the Zenodo v1 record when referencing the initial formulation of TRI.
 
 ---
 
 ## Contact
 
-- Maintainer: Tao Liu (Independent Researcher)
-- Project website: https://explorerbrain.com
+**Tao Liu**  
+Independent Researcher  
+Project site: https://explorerbrain.com
